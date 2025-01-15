@@ -1,5 +1,4 @@
-
- # Non-Convolutional Graph Neural Networks (RUM Neural Network)
+# Non-Convolutional Graph Neural Networks (RUM Neural Network)
 
 This repository implements the **Random Walk with Unifying Memory (RUM) Neural Network** as described in the paper:  
 [Non-convolutional Graph Neural Networks](https://doi.org/10.48550/arXiv.2408.00165) by Yuanqing Wang and Kyunghyun Cho.
@@ -51,5 +50,6 @@ The following libraries and tools are used:
 - [PyTorch](https://pytorch.org/)
 - [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)
 - [SciPy](https://scipy.org/)
+- [matplotlib](https://matplotlib.org/)
 
 
