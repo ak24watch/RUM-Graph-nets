@@ -38,17 +38,20 @@ This implementation supports node-level and graph-level classification and regre
 
 ---
 
+## 📊 Results
+
+### Best Test Accuracy with Varying Sample Size and Walk Length
+
+![Mesh Plot](test_accuracy_mesh_plot.png)
+
+---
+
 ## 🛠 Libraries and Tools
 
 The following libraries and tools are used:
 - [Python 3.8+](https://www.python.org/)
 - [PyTorch](https://pytorch.org/)
 - [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/)
-- [NumPy](https://numpy.org/)
-- [NetworkX](https://networkx.org/) (optional for graph analysis)
+- [SciPy](https://scipy.org/)
 
-To install the dependencies, run:
-
-```bash
-pip install -r requirements.txt
 
