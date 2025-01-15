@@ -1,5 +1,5 @@
-# experiments-done
- Practice of implementation of RUM (non-conv) paper
+
+### Practice of implementation of RUM (non-conv) paper
  
  # Non-Convolutional Graph Neural Networks (RUM Neural Network)
 
