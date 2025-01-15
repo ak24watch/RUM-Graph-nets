@@ -1,6 +1,4 @@
 
-### Practice of implementation of RUM (non-conv) paper
- 
  # Non-Convolutional Graph Neural Networks (RUM Neural Network)
 
 This repository implements the **Random Walk with Unifying Memory (RUM) Neural Network** as described in the paper:  
