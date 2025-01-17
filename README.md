@@ -29,9 +29,6 @@ RUM utilizes **random walks** combined with a **recurrent neural network (RNN)**
 
 This implementation supports node-level and graph-level classification and regression tasks. Commonly used datasets include:
 1. **Cora**
-2. **Citeseer**
-3. **PubMed**
-4. **ZINC** (regression)
 
 ---
 
